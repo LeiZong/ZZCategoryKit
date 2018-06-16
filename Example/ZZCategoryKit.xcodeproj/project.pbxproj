@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		2BDB37CA8844C195BC5F4658 /* Pods-ZZCategoryKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZCategoryKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZZCategoryKit_Tests/Pods-ZZCategoryKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		4AAD5D4FB787944818F6DF9A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		4AAD5D4FB787944818F6DF9A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		4B9171D5AA19670202C9FD68 /* Pods-ZZCategoryKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZCategoryKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZZCategoryKit_Tests/Pods-ZZCategoryKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* ZZCategoryKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZZCategoryKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -61,11 +61,11 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71C86F412D3AC18603217E77 /* Pods-ZZCategoryKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZCategoryKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZZCategoryKit_Example/Pods-ZZCategoryKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		858D331ADDACA547B8D49508 /* ZZCategoryKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZZCategoryKit.podspec; path = ../ZZCategoryKit.podspec; sourceTree = "<group>"; };
+		858D331ADDACA547B8D49508 /* ZZCategoryKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZZCategoryKit.podspec; path = ../ZZCategoryKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		896A0D5F16E52DE6DA237E32 /* Pods-ZZCategoryKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZCategoryKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZZCategoryKit_Example/Pods-ZZCategoryKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		8F99D0DF407BEF5B11DFA857 /* Pods_ZZCategoryKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZZCategoryKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AF3B85FE5B11566D08C3DAF8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		AF3B85FE5B11566D08C3DAF8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F9CD157EAE0AEA61D66BD476 /* Pods_ZZCategoryKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZZCategoryKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

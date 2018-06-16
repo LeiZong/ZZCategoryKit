@@ -1,0 +1,22 @@
+{
+  "name": "ZZCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZZCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LeiZong/ZZCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LeiZong": "leasingzong@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/LeiZong/ZZCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZCategoryKit/Classes/**/*"
+}
